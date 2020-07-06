@@ -24,7 +24,6 @@ def assembled_aoh
     :name=>"Bruce Green", :occupation=>"Fan of Mildred"
   }
 ]
-
   # Build an array that contains (or, "nests") the constants into a single
   # Array. Ruby constants are denoted by ALL_CAPS
 end
